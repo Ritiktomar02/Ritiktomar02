@@ -3,8 +3,7 @@
 ### A Web Development enthusiast, a sportsman, and a coffee lover!
 
 - 🔭 I’m currently working on an **EdTech Project**  
-- 🌱 I’m currently learning **MERN STACK** 
-- 🤔 I’m looking for help with MERN STACK  
+- 🌱 I’m currently learning **MERN STACK**  
 - 💬 Ask me about **DSA, OS, DBMS** 
 - 📫 How to reach me: [ritiktomar0209@gmail.com](mailto:ritiktomar0209@gmail.com)
 
