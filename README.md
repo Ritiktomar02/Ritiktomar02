@@ -2,7 +2,7 @@
 # Hi 👋, I'm Ritik Tomar  
 ### A Web Development enthusiast, a sportsman, and a coffee lover!
 
-- 🔭 I’m currently working on an **NEXT.js Project**  
+- 🔭 I’m currently working on an **NEXT.js Projects**  
 - 🌱 I’m currently learning **NEXT.js**  
 - 💬 Ask me about **DSA, OS, DBMS, MERN Stack** 
 - 📫 How to reach me: [ritiktomar0209@gmail.com](mailto:ritiktomar0209@gmail.com)
