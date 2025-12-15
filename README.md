@@ -1,96 +1,96 @@
 ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/184a825c-b7fd-40a7-87cd-09f45ab8fde0)
 
-# Hi 👋, I'm Ritik Tomar  
+# 🚀 Ritik Tomar
 
-🚀 **Software Engineer | Backend & Full-Stack Developer**  
-💻 MERN Stack | Real-Time Systems | Scalable APIs  
-🎓 B.Tech CSE | CGPA: 9.08  
-
----
-
-## 👨‍💻 About Me
-I am a **Software Engineer specializing in Backend and Full-Stack development**, with hands-on experience building **scalable, real-time, and performance-driven web applications**.
-
-I enjoy designing secure REST APIs, implementing real-time communication, and optimizing backend systems. I actively work with modern JavaScript frameworks and backend technologies to build **production-ready software**.
-
-- 🔭 Currently working on **Next.js-based full-stack projects**
-- 🌱 Exploring **advanced backend patterns & system design**
-- 💬 Ask me about **DSA, OS, DBMS, MERN Stack**
-- 📫 Reach me at: **ritiktomar0209@gmail.com**
+**Software Engineer | Backend & Full-Stack Developer**  
+*MERN • Real-Time Systems • Scalable APIs • System Design*
 
 ---
 
-## 🔗 Connect With Me
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ritikmsd7/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritiktomar0209/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritiktomar02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ritiktomar02.github.io/Portfolio/)
+## 👋 About Me
+
+I am a **Software Engineer** focused on building **scalable, secure, and performance-driven web applications** with strong expertise in **backend engineering and real-time systems**.
+
+I enjoy designing clean APIs, solving system-level problems, and building production-ready products end to end.
+
+- 🎓 B.Tech in Computer Science | CGPA: **9.0+**
+- 🧠 Solved **600+ DSA problems** (LeetCode & GeeksforGeeks)
+- 🔍 Interested in **Backend Engineering, System Design, and Distributed Systems**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔥 Engineering Highlights
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+- Built **real-time collaborative platforms** supporting **10–15 concurrent users** using Socket.IO  
+- Improved authentication response time by **~30%** using **Redis-based caching**  
+- Designed and secured **20+ RESTful APIs** using JWT and role-based access control  
+- Integrated **AI workflows** using Gemini API for automation and productivity  
+- Implemented **in-browser code execution** using WebContainer API  
 
 ---
 
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
-![Clerk](https://img.shields.io/badge/Clerk-3F45D4?style=for-the-badge&logo=clerk&logoColor=white)
+## 🛠️ Tech Stack
+
+### Backend & Systems
+- Node.js, Express.js  
+- REST APIs, WebSockets, Socket.IO  
+- Redis, MongoDB, MySQL  
+- JWT Authentication, RBAC  
+- Caching, Rate Limiting, Scalability  
+
+### Frontend
+- React.js, Next.js  
+- JavaScript (ES6+), TypeScript  
+- Tailwind CSS, Redux Toolkit, Context API  
+
+### Tools & Platforms
+- Git, GitHub, Docker  
+- Vercel, Render  
+- Postman, Chrome DevTools  
+- WebContainer API, Gemini API  
 
 ---
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-303030?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-188038?style=for-the-badge&logo=google&logoColor=white)
+## 📌 Featured Projects
+
+### 🟢 GenChat — Real-Time Collaborative Platform
+Real-time chat and project workspace built using **React, Node.js, MongoDB, Redis, and Socket.IO**, featuring low-latency messaging, JWT authentication, and AI integration.
+
+### 🔵 BlogCortex — AI-Powered Blogging Platform
+Full-stack MERN application integrating **Gemini API** for AI-generated markdown blogs, secure authentication, admin dashboards, and scalable REST APIs.
+
+### 🟣 StudyNotion — Ed-Tech Platform
+Scalable MERN-based learning platform with role-based access control, OTP authentication, Razorpay payments, and course management workflows.
 
 ---
 
-## 💡 Programming Languages
-- C, C++
-- Python
-- JavaScript (ES6+)
-- TypeScript
+## 🧠 Core Computer Science
 
----
-
-## 📚 Relevant Academic Subjects
 - Data Structures & Algorithms  
 - Operating Systems  
 - Computer Networks  
-- Database Management Systems (DBMS)
+- Database Management Systems  
+- Object-Oriented Programming  
+- System Design Fundamentals  
 
 ---
 
 ## 🤝 Soft Skills
-- Logical Reasoning  
-- Quick Learning  
-- Team Collaboration  
-- Public Speaking  
+
+- Analytical Thinking  
+- Problem Solving  
+- Ownership & Accountability  
+- Cross-functional Collaboration  
+- Clear Technical Communication  
 
 ---
-⭐ Feel free to explore my repositories and connect for collaboration or opportunities!
 
+## 📫 Connect With Me
 
+- 🌐 Portfolio: https://ritiktomar02.github.io/Portfolio  
+- 💼 LinkedIn: https://linkedin.com/in/ritiktomar02  
+- 📧 Email: ritiktomar0209@gmail.com  
+
+---
+
+⭐ Feel free to explore my repositories and connect for collaboration or opportunities.
