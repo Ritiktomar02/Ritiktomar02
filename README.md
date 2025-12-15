@@ -1,21 +1,36 @@
 ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/184a825c-b7fd-40a7-87cd-09f45ab8fde0)
+
 # Hi 👋, I'm Ritik Tomar  
-### A Web Development enthusiast, a sportsman, and a coffee lover!
 
-- 🔭 I’m currently working on an **NEXT.js Projects**  
-- 🌱 I’m currently learning **NEXT.js**  
-- 💬 Ask me about **DSA, OS, DBMS, MERN Stack** 
-- 📫 How to reach me: [ritiktomar0209@gmail.com](mailto:ritiktomar0209@gmail.com)
+🚀 **Software Engineer | Backend & Full-Stack Developer**  
+💻 MERN Stack | Real-Time Systems | Scalable APIs  
+🎓 B.Tech CSE | CGPA: 9.08  
 
-# Connect With Me  
+---
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ritikmsd7/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritiktomar0209/)  
+## 👨‍💻 About Me
+I am a **Software Engineer specializing in Backend and Full-Stack development**, with hands-on experience building **scalable, real-time, and performance-driven web applications**.
 
+I enjoy designing secure REST APIs, implementing real-time communication, and optimizing backend systems. I actively work with modern JavaScript frameworks and backend technologies to build **production-ready software**.
 
-# 💻 Tech Stack & Tools
+- 🔭 Currently working on **Next.js-based full-stack projects**
+- 🌱 Exploring **advanced backend patterns & system design**
+- 💬 Ask me about **DSA, OS, DBMS, MERN Stack**
+- 📫 Reach me at: **ritiktomar0209@gmail.com**
 
-## 🌐 Frontend
+---
+
+## 🔗 Connect With Me
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ritikmsd7/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritiktomar0209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritiktomar02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ritiktomar02.github.io/Portfolio/)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,17 +39,21 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 
-## 🔧 Backend & Databases
+---
+
+### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/Clerk-3F45D4?style=for-the-badge&logo=clerk&logoColor=white)
 
-## 🧰 Tools & Platforms
+---
+
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,9 +62,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-303030?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-303030?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-188038?style=for-the-badge&logo=google&logoColor=white)
+
+---
 
 ## 💡 Programming Languages
 - C, C++
@@ -53,16 +74,23 @@
 - JavaScript (ES6+)
 - TypeScript
 
+---
+
 ## 📚 Relevant Academic Subjects
-- Data Structures and Algorithms
-- Operating Systems
-- Computer Networks
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
 - Database Management Systems (DBMS)
 
+---
+
 ## 🤝 Soft Skills
-- Logical Reasoning
-- Quick Learning
-- Team Collaboration
-- Public Speaking
+- Logical Reasoning  
+- Quick Learning  
+- Team Collaboration  
+- Public Speaking  
+
+---
+⭐ Feel free to explore my repositories and connect for collaboration or opportunities!
 
 
