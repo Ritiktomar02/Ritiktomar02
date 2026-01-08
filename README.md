@@ -14,7 +14,7 @@ I am a **Software Engineer** focused on building **scalable, secure, and perform
 I enjoy designing clean APIs, solving system-level problems, and building production-ready products end to end.
 
 - 🎓 B.Tech in Computer Science | CGPA: **9.0+**
-- 🧠 Solved **600+ DSA problems** (LeetCode & GeeksforGeeks)
+- 🧠 Solved **700+ DSA problems** (LeetCode & GeeksforGeeks)
 - 🔍 Interested in **Backend Engineering, System Design, and Distributed Systems**
 
 ---
