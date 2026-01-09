@@ -2,7 +2,7 @@
 
 # 🚀 Ritik Tomar
 
-**Software Engineer | Backend & Full-Stack Developer**  
+**Final Year Student | Backend & Full-Stack Developer**  
 *MERN • Real-Time Systems • Scalable APIs • System Design*
 
 ---
